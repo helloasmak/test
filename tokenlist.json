@@ -1,0 +1,11 @@
+{
+  "tokens": [
+    {
+      "chainId": 1337,  // Chain ID for Ganache (local test network)
+      "address": "0x9446Ae2576F8F745275C68C3cC47979702180eFe",  // Replace with your actual contract address
+      "symbol": "USDT",  // Token symbol
+      "decimals": 6,  // Token decimals
+      "logoURI": "https://raw.githubusercontent.com/helloasmak/test/refs/heads/main/Tether_USDT.png"  // Your image URL
+    }
+  ]
+}
